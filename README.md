@@ -1,8 +1,11 @@
-### Hi there 👋
-
 ![Adam's Github Bio Header](https://github.com/ACharlesiWRR/images/blob/main/Adam%20Github%20Profile%20v1%20-%20Mar24.png)
 
+### 👋
+I’ve worn a lot of hats over the years in tech, including Strategy, Ops, Product, Growth in sectors like climatetech, edtech, fintech, SaaS and eCommerce. 
 
+Most recently I’ve been working on [Zopeful Climate](https://zopeful.com), a global collaborative project to explain climate science and how we can solve climate change through reducing and removing carbon and other GHG emissions. 
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/adamoskwarek/) and (much less so these days) [Twitter](https://twitter.com/AdamolaC).
 
 
 
