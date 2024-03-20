@@ -1,7 +1,7 @@
 ![Adam's Github Bio Header](https://github.com/ACharlesiWRR/images/blob/main/Adam%20Github%20Profile%20v1%20-%20Mar24.png)
 
 ### 👋
-I’ve worn a lot of hats over the years in tech, including Strategy, Ops, Product, Growth in sectors like climatetech, edtech, fintech, SaaS and eCommerce. 
+I’ve worn a lot of hats over the years in tech, including Strategy, Ops, Product, Growth in sectors like climatetech, edtech, fintech, SaaS and eCommerce. What ties it all together is my love of building things with curious, passionate, creative and empathetic people keen to create change by making something new. 
 
 Most recently I’ve been working on [Zopeful Climate](https://zopeful.com), a global collaborative project to explain climate science and how we can solve climate change through reducing and removing carbon and other GHG emissions. 
 
