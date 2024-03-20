@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Adam's Github Bio Header](https://github.com/ACharlesiWRR/images/blob/main/Adam%20Github%20Profile%20v1%20-%20Mar24.png)
+
+
+
+
+
 <!--
 **ACharlesiWRR/ACharlesiWRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
